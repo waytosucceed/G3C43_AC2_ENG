@@ -1,0 +1,215 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which word matches the picture? <br> <img src='./1.png' width='130px'/>",
+    "options": [
+      "Night",
+      "Knight"
+    ],
+    "correct": 0,
+    "explanation": "'Night' means the time when it is dark outside, usually when we sleep. A 'Knight' is a person who fought in armour long ago. Since we are looking at the sky at night, the correct answer is 'Night'."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Which word matches the picture? <br> <img src='./2.png' width='130px'/>",
+    "options": [
+      "Male",
+      "Mail"
+    ],
+    "correct": 1,
+    "explanation": "'Mail' refers to letters or packages sent to someone. 'Male' refers to a boy or man. Since the picture shows something that looks like a letter or message, the correct answer is 'Mail'."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": " Which word matches the picture? <br> <img src='./3.png' width='130px'/>",
+    "options": [
+      "Rode",
+      "Road"
+    ],
+    "correct": 1,
+    "explanation": "'Road' is the path cars drive on. 'Rode' is the past tense of riding something, like a bike or a horse. Since the picture shows a path, the correct answer is 'Road'."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which word matches the picture? <br> <img src='./4.png' width='130px'/>",
+    "options": [
+      "Deer",
+      "Dear"
+    ],
+    "correct": 0,
+    "explanation": "'Deer' is an animal with antlers. 'Dear' is a way to start a letter or show love to someone. Since the picture shows an animal, the correct answer is 'Deer'."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which word matches the picture? <br> <img src='./5.png' width='130px'/>",
+    "options": [
+      "Sale",
+      "Sail"
+    ],
+    "correct": 1,
+    "explanation": "'Sail' refers to using wind to move a boat. 'Sale' means something being sold for less money. Since the picture shows a boat, the correct answer is 'Sail'."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Choose the correct homophone:  <br>The dog wagged its _____.",
+    "options": [
+      "Tale",
+      "Tail",
+      "Tael",
+      "Teal"
+    ],
+    "correct": 1,
+    "explanation": "'Tail' is the correct word here. It means the back part of an animal's body that sticks out."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Which word completes the sentence? <br> I can _____ the ball from here to there.",
+    "options": [
+      "Throw",
+      "Through",
+      "Thorough"
+    ],
+    "correct": 0,
+    "explanation": "'Throw' means to toss or send something through the air. 'Through' means going from one side to the other."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Select the right homophone: <br> The bear has thick _____ all over its body.",
+    "options": [
+      "Fur",
+      "Fir"
+    ],
+    "correct": 0,
+    "explanation": "'Fur' is the soft, thick hair that covers some animals' bodies. A 'Fir' is a type of tree."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Choose the correct word: <br> We _____ our lunch at the park.",
+    "options": [
+      "Ate",
+      "Eight"
+    ],
+    "correct": 0,
+    "explanation": "'Ate' is the past tense of eat, which is what we want here. 'Eight' is the number 8."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which homophone fits? <br> The king sat on his royal _____.",
+    "options": [
+      "Thrown",
+      "Throne"
+    ],
+    "correct": 1,
+    "explanation": "A 'Throne' is a special chair for a king or queen. 'Thrown' is the past participle of throw."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Choose the correct homophone: <br> The ship will _____ at noon.",
+    "options": [
+      "Sail",
+      "Sale"
+    ],
+    "correct": 0,
+    "explanation": "'Sail' means to travel on water using wind power. A 'Sale' is the action of selling or being sold."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Choose the correct word: <br> The sun will _____ in the east.",
+    "options": [
+      "Rice",
+      "Rise"
+    ],
+    "correct": 1,
+    "explanation": "'Rise' means to go up or come above the horizon. 'Rice' is a type of food."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Which homophone completes the sentence?  <br> The cat has soft _____.",
+    "options": [
+      "Paws",
+      "Pause"
+    ],
+    "correct": 0,
+    "explanation": "'Paws' are an animal's feet. 'Pause' means to stop for a short time."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which word fits?  <br>The bird built its _____ in the tree.",
+    "options": [
+      "Nest",
+      "Next"
+    ],
+    "correct": 0,
+    "explanation": "A 'Nest' is a bird's home. 'Next' means the one after."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Select the right homophone: <br> We _____ cookies for the party.",
+    "options": [
+      "Maid",
+      "Made"
+    ],
+    "correct": 1,
+    "explanation": "'Made' is the past tense of make, which is what we need here. A 'Maid' is a person who cleans."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Choose the correct pair of homophones:",
+    "options": [
+      "Dear - Deer",
+      "Dear - Dare",
+      "Deer - Dare",
+      "Dear - Door"
+    ],
+    "correct": 0,
+    "explanation": "'Dear' and 'Deer' are homophones. 'Dear' means loved or expensive, while a 'Deer' is an animal. The other pairs are not homophones because they sound different."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which pair of words are homophones?",
+    "options": [
+      "Right - Rote",
+      "Write - Wrote",
+      "Write - Right",
+      "Write - Wit"
+    ],
+    "correct": 2,
+    "explanation": "'Write' and 'Right' are homophones. 'Write' means to put words on paper, while 'Right' means correct or the opposite of left. The other pairs sound different."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Choose the correct pair of homophones:",
+    "options": [
+      "Blue - Blew",
+      "Blue - Blow",
+      "Blew - Boil",
+      "Blue - Bell"
+    ],
+    "correct": 0,
+    "explanation": "'Blue' and 'Blew' are homophones. 'Blue' is a colour, while 'Blew' is the past tense of blow. The other pairs are not homophones because they sound different."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which pair of words are homophones?",
+    "options": [
+      "Hear - Hire",
+      "Hear - Hair",
+      "Here - Ear",
+      "Hair - Heart"
+    ],
+    "correct": 1,
+    "explanation": "'Hear' and 'Here' are homophones. 'Hear' means to perceive sound, while 'Here' means in this place. The other pairs sound different."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which word completes the sentence? <br> We need to _____ quietly in the library.",
+    "options": [
+      "Walk",
+      "Wok",
+      "Woke",
+      "Whack"
+    ],
+    "correct": 0,
+    "explanation": "'Walk' means to move on foot. A 'Wok' is a type of cooking pan, 'Woke' is the past tense of wake, and 'Whack' means to hit hard."
+  }
+]
